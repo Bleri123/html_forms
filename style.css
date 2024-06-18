@@ -79,3 +79,7 @@ input[type="file"] {
 a{
     color:#dfdfe2;
 }
+
+legend{
+    margin-top: 5px;
+}
